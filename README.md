@@ -68,20 +68,20 @@ A curated portfolio of end-to-end data analytics projects demonstrating **SQL, P
 
 - Municipality Data Analysis
 
- (./visuals/MunicipalityDataAnalysisDashboard.png)
+  ![Municipality Dashboard](./visuals/MunicipalityDataAnalysisDashboard.png)
 
 - GROVER Junior Data Analyst Case Study
+  ![Grover Dashboard](./visuals/GroverDataAnalystDashboard.png)
 
- (./visuals/GroverDataAnalystDashboard.png)
 
 - Retail Pricing Analytics
- (./visuals/RetailPricingAnalytics.png)
+  ![Retail Pricing](./visuals/RetailPricingAnalytics.png)
 
 - E-commerce Sales Dashboard
-  (./visuals/E-commerceRetail.png)
-
+  ![E-commerce Sales](./visuals/E-commerceRetail.png)
+  
 - Sales Superstore (Multi-dashboard)
-(./visuals/KPIDashboard.png)
+![KPI Dashboard](./visuals/KPIDashboard.png)
 
   - Top-Down Dashboard  
   ![Top Down Dashboard](./visuals/TopDownDashboard.png)
@@ -90,16 +90,16 @@ A curated portfolio of end-to-end data analytics projects demonstrating **SQL, P
   ![Q&A Dashboard](./visuals/Q&ADashboard.png)
 
   - Bottom-Up Dashboard  
-    (./visuals/BottomUpDashboard.png)
+   ![Bottom Up Dashboard](./visuals/BottomUpDashboard.png)
 
   - Geo Chart  
  (./visuals/GeoChart.png)
 
 - World Bank CO2 Emissions
-  (./visuals/WorldBankCO2Emission.png)
+  ![CO2 Dashboard](./visuals/WorldBankCO2Emission.png)
 
 - London Bus Safety
-(./visuals/LondonBusSafety.png)
+  ![London Bus Safety](./visuals/LondonBusSafety.png)
 
 ---
 
