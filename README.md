@@ -92,9 +92,6 @@ A curated portfolio of end-to-end data analytics projects demonstrating **SQL, P
   - Bottom-Up Dashboard  
    ![Bottom Up Dashboard](./visuals/BottomUpDashboard.png)
 
-  - Geo Chart  
- (./visuals/GeoChart.png)
-
 - World Bank CO2 Emissions
   ![CO2 Dashboard](./visuals/WorldBankCO2Emission.png)
 
