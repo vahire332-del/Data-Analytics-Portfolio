@@ -19,8 +19,7 @@ A curated portfolio of end-to-end data analytics projects demonstrating **SQL, P
 - **SQL scripts:**
   - [Database & Inserts](./Instagram%20Clone%20SQL%20-%20Database%20%26%20Inserting%20Data.sql)
   - [Exploratory Data Analysis](./Instagram%20Clone%20SQL%20-%20Exploratory%20Data%20Analysis.sql)
-- **Dashboard (Tableau Public):**
-  - https://public.tableau.com/views/InstagramCloneDataAnalysisDashboard/InstagramCloneDataAnalysisDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+
 
 ![Instagram Clone Dashboard](./visuals/InstagramCloneDashboard.png)
 
