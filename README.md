@@ -60,31 +60,28 @@ A curated portfolio of end-to-end data analytics projects demonstrating **SQL, P
 
 ---
 
-## Tableau Dashboards (Screenshots + Links)
+## Tableau Dashboards (Screenshots )
 
 - Benefits of Working from Home (MakeoverMonday)
-  - https://public.tableau.com/views/MakeoverMonday2020Week32BenefitsofWorkingfromHome/WORKFROMHOME?:language=en-GB&:display_count=n&:origin=viz_share_link  
+
   ![Work From Home](./visuals/WorkFromHome.png)
 
 - Municipality Data Analysis
-  - https://public.tableau.com/views/MunicipalityDashboard/Municipality?:language=en-GB&:display_count=n&:origin=viz_share_link  
-  ![Municipality Dashboard](./visuals/MunicipalityDataAnalysisDashboard.png)
+
+ (./visuals/MunicipalityDataAnalysisDashboard.png)
 
 - GROVER Junior Data Analyst Case Study
-  - https://public.tableau.com/views/GROVERJuniorDataAnalystCaseStudy/GroverDataAnalystDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link  
-  ![Grover Dashboard](./visuals/GroverDataAnalystDashboard.png)
+
+ (./visuals/GroverDataAnalystDashboard.png)
 
 - Retail Pricing Analytics
-  - https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/RetailPriceAnalyticsDashboard/RetailPricingAnalytics#2  
-  ![Retail Pricing](./visuals/RetailPricingAnalytics.png)
+ (./visuals/RetailPricingAnalytics.png)
 
 - E-commerce Sales Dashboard
-  - https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/eCommerceSales_16310934566250/ExploratoryVisualAnalysis  
-  ![E-commerce Sales](./visuals/E-commerceRetail.png)
+  (./visuals/E-commerceRetail.png)
 
 - Sales Superstore (Multi-dashboard)
-  - KPI Dashboard: https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/SuperStoreDataset5Dashboards/1KPIDashboard  
-  ![KPI Dashboard](./visuals/KPIDashboard.png)
+(./visuals/KPIDashboard.png)
 
   - Top-Down Dashboard  
   ![Top Down Dashboard](./visuals/TopDownDashboard.png)
@@ -93,18 +90,16 @@ A curated portfolio of end-to-end data analytics projects demonstrating **SQL, P
   ![Q&A Dashboard](./visuals/Q&ADashboard.png)
 
   - Bottom-Up Dashboard  
-  ![Bottom Up Dashboard](./visuals/BottomUpDashboard.png)
+    (./visuals/BottomUpDashboard.png)
 
   - Geo Chart  
-  ![Geo Chart](./visuals/GeoChart.png)
+ (./visuals/GeoChart.png)
 
 - World Bank CO2 Emissions
-  - https://public.tableau.com/views/WorldBankCo2Emissions_16149182681650/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link  
-  ![CO2 Dashboard](./visuals/WorldBankCO2Emission.png)
+  (./visuals/WorldBankCO2Emission.png)
 
 - London Bus Safety
-  - https://public.tableau.com/views/TableauCertificationCourse2/ChartsDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link  
-  ![London Bus Safety](./visuals/LondonBusSafety.png)
+(./visuals/LondonBusSafety.png)
 
 ---
 
